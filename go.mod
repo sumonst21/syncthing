@@ -32,7 +32,7 @@ require (
 	github.com/lib/pq v1.10.7
 	github.com/lucas-clemente/quic-go v0.29.1
 	github.com/maruel/panicparse/v2 v2.3.1
-	github.com/maxbrunsfeld/counterfeiter/v6 v6.5.0
+	github.com/maxbrunsfeld/counterfeiter/v6 v6.6.1
 	github.com/minio/sha256-simd v1.0.0
 	github.com/miscreant/miscreant.go v0.0.0-20200214223636-26d376326b75
 	github.com/oschwald/geoip2-golang v1.8.0
@@ -50,12 +50,12 @@ require (
 	github.com/urfave/cli v1.22.10
 	github.com/vitrun/qart v0.0.0-20160531060029-bf64b92db6b0
 	golang.org/x/crypto v0.0.0-20220926161630-eccd6366d1be
-	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/net v0.0.0-20221002022538-bcab6841153b
-	golang.org/x/sys v0.0.0-20220928140112-f11e5e49a4ec
-	golang.org/x/text v0.3.7
+	golang.org/x/mod v0.7.0 // indirect
+	golang.org/x/net v0.5.0
+	golang.org/x/sys v0.4.0
+	golang.org/x/text v0.6.0
 	golang.org/x/time v0.0.0-20220922220347-f3bd1da661af
-	golang.org/x/tools v0.1.12
+	golang.org/x/tools v0.5.0
 	google.golang.org/protobuf v1.28.1
 )
 
