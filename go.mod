@@ -52,7 +52,7 @@ require (
 	golang.org/x/mod v0.10.0 // indirect
 	golang.org/x/net v0.10.0
 	golang.org/x/sys v0.8.0
-	golang.org/x/text v0.9.0
+	golang.org/x/text v0.13.0
 	golang.org/x/time v0.3.0
 	golang.org/x/tools v0.9.3
 	google.golang.org/protobuf v1.30.0
