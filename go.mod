@@ -16,8 +16,8 @@ require (
 	github.com/d4l3k/messagediff v1.2.1
 	github.com/flynn-archive/go-shlex v0.0.0-20150515145356-3f9db97f8568
 	github.com/getsentry/raven-go v0.2.0
-	github.com/go-asn1-ber/asn1-ber v1.5.4 // indirect
-	github.com/go-ldap/ldap/v3 v3.4.4
+	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667 // indirect
+	github.com/go-ldap/ldap/v3 v3.4.11
 	github.com/gobwas/glob v0.2.3
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/snappy v0.0.4 // indirect
@@ -48,13 +48,13 @@ require (
 	github.com/thejerf/suture/v4 v4.0.2
 	github.com/urfave/cli v1.22.13
 	github.com/vitrun/qart v0.0.0-20160531060029-bf64b92db6b0
-	golang.org/x/crypto v0.9.0
-	golang.org/x/mod v0.10.0 // indirect
-	golang.org/x/net v0.10.0
-	golang.org/x/sys v0.8.0
-	golang.org/x/text v0.9.0
+	golang.org/x/crypto v0.36.0
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/net v0.38.0
+	golang.org/x/sys v0.31.0
+	golang.org/x/text v0.23.0
 	golang.org/x/time v0.3.0
-	golang.org/x/tools v0.9.3
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d
 	google.golang.org/protobuf v1.30.0
 )
 
@@ -66,6 +66,7 @@ require (
 	github.com/golang/mock v1.6.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/pprof v0.0.0-20230602150820-91b7bce49751 // indirect
+	github.com/google/uuid v1.6.0 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/onsi/ginkgo/v2 v2.9.7 // indirect
 	github.com/oschwald/maxminddb-golang v1.10.0 // indirect
@@ -77,6 +78,7 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.3 // indirect
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1 // indirect
+	golang.org/x/sync v0.12.0 // indirect
 )
 
 // https://github.com/gobwas/glob/pull/55
