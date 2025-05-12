@@ -1,6 +1,6 @@
 module github.com/syncthing/syncthing
 
-go 1.19
+go 1.23.0
 
 require (
 	github.com/AudriusButkevicius/pfilter v0.0.11
@@ -48,13 +48,13 @@ require (
 	github.com/thejerf/suture/v4 v4.0.2
 	github.com/urfave/cli v1.22.13
 	github.com/vitrun/qart v0.0.0-20160531060029-bf64b92db6b0
-	golang.org/x/crypto v0.9.0
-	golang.org/x/mod v0.10.0 // indirect
-	golang.org/x/net v0.10.0
-	golang.org/x/sys v0.8.0
-	golang.org/x/text v0.9.0
+	golang.org/x/crypto v0.23.0
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/net v0.25.0
+	golang.org/x/sys v0.20.0
+	golang.org/x/text v0.25.0
 	golang.org/x/time v0.3.0
-	golang.org/x/tools v0.9.3
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d
 	google.golang.org/protobuf v1.30.0
 )
 
@@ -77,6 +77,7 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.3 // indirect
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1 // indirect
+	golang.org/x/sync v0.14.0 // indirect
 )
 
 // https://github.com/gobwas/glob/pull/55
